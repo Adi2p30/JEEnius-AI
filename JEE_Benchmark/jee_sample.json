@@ -1,0 +1,831 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "A resistance of $2 Omega$ is connected across one gap of a metre-bridge (the length of the wire is $100 mathrm{~cm}$) and an unknown resistance, greater than $2 Omega$, is connected across the other gap. When these resistances are interchanged, the balance point shifts by $20 mathrm{~cm}$. Neglecting any corrections, the unknown resistance is",
+    "options": {
+      "A": "3 Omega",
+      "B": "4 Omega",
+      "C": "5 Omega",
+      "D": "6 Omega"
+    },
+    "selected_answer": "B",
+    "page_number": 1
+  },
+  {
+    "question_number": 2,
+    "question_text": "In an experiment to determine the focal length $(f)$ of a concave mirror by the $u-v$ method, a student places the object pin $A$ on the principal axis at a distance $x$ from the pole $P$. The student looks at the pin and its inverted image from a distance keeping his/her eye in line with $P$. When the student shifts his/her eye towards left, the image appears to the right of the object pin. Then, (A) $x<f$ (B) $f<x<2f$ (C) $x=2f$ (D) $x>2f$",
+    "options": {
+      "A": "x<f",
+      "B": "f<x<2f",
+      "C": "x=2f",
+      "D": "x>2f"
+    },
+    "selected_answer": "B",
+    "page_number": 1
+  },
+  {
+    "question_number": 3,
+    "question_text": "Two particles of mass $m$ each are tied at the ends of a light string of length $2a$. The whole system is kept on a frictionless horizontal surface with the string held tight so that each mass is at a distance $a$ from the center $P$ (as shown in the figure). Now, the mid-point of the string is pulled vertically upwards with a small but countable force. As the particles move towards each other on the surface. The magnitude of acceleration, when the separation between them becomes $2x$, is",
+    "options": {
+      "A": "2m g^2 a^{-2}",
+      "B": "2m g^2 a^{-2} x",
+      "C": "2m g a^{-1}",
+      "D": "2m g a^{-1} x"
+    },
+    "selected_answer": "B",
+    "page_number": 1
+  },
+  {
+    "question_number": 4,
+    "question_text": "A long, hollow conducting cylinder is kept coaxially inside another long, hollow conducting cylinder of larger radius. Both the cylinders are initially electrically neutral. (A) A potential difference appears between the two cylinders when a charge density is given to the inner cylinder (B) A potential difference appears between the two cylinders when a charge density is given to the outer cylinder (C) No potential difference appears between the two cylinders when a uniform line charge is kept along the axis of the cylinders (D) No potential difference appears between the two cylinders when same charge density is given to both the cylinders",
+    "options": {
+      "A": "A potential difference appears between the two cylinders when a charge density is given to the inner cylinder",
+      "B": "A potential difference appears between the two cylinders when a charge density is given to the outer cylinder",
+      "C": "No potential difference appears between the two cylinders when a uniform line charge is kept along the axis of the cylinders",
+      "D": "No potential difference appears between the two cylinders when same charge density is given to both the cylinders"
+    },
+    "selected_answer": "C",
+    "page_number": 2
+  },
+  {
+    "question_number": 5,
+    "question_text": "Consider a neutral conducting sphere. A positive point charge is placed outside the sphere. The net charge on the sphere is then, (A) negative and distributed uniformly over the surface of the sphere (B) negative and appears at the point on the sphere closest to the point charge (C) negative and distributed non-uniformly over the entire surface of the sphere (D) zero",
+    "options": {
+      "A": "negative and distributed uniformly over the surface of the sphere",
+      "B": "negative and appears at the point on the sphere closest to the point charge",
+      "C": "negative and distributed non-uniformly over the entire surface of the sphere",
+      "D": "zero"
+    },
+    "selected_answer": "D",
+    "page_number": 2
+  },
+  {
+    "question_number": 6,
+    "question_text": "A circuit is connected as shown in the figure with the switch S open. When the switch is closed, the total amount of charge that flows from Y to X is (A) 0 (B) 54 μC (C) 27 μC (D) 81 μC",
+    "options": {
+      "A": "0",
+      "B": "54 μC",
+      "C": "27 μC",
+      "D": "81 μC"
+    },
+    "selected_answer": "B",
+    "page_number": 2
+  },
+  {
+    "question_number": 7,
+    "question_text": "A ray of light traveling in water is incident on its surface open to air. The angle of incidence is $\theta$, which is less than the critical angle. Then there will be (A) only a reflected ray and no refracted ray (B) only a reflected ray and no reflected ray (C) a reflected ray and a refracted ray and the angle between them would be less than $180^circ - 2 \theta$ (D) a reflected ray and a refracted ray and the angle between them would be greater than $180^circ - 2 \theta",
+    "options": {
+      "A": "only a reflected ray and no refracted ray",
+      "B": "only a reflected ray and no reflected ray",
+      "C": "a reflected ray and a refracted ray and the angle between them would be less than $180^circ - 2 \theta$",
+      "D": "a reflected ray and a refracted ray and the angle between them would be greater than $180^circ - 2 \theta"
+    },
+    "selected_answer": "C",
+    "page_number": 3
+  },
+  {
+    "question_number": 8,
+    "question_text": "In the options given below, let $E$ denote the rest mass energy of a nucleus and $n$ a neutron. The correct option is (A) $E[(n+1)E(n)]-E[(n)E(n)]>2E(n)$ (B) $E[(n+1)E(n)]-E[(n)E(n)]>2E(n)$ (B) $E[(n+1)E(n)]-E[(n)E(n)]<2E(n)$ (C) $E[(n+1)E(n)]-E[(n)E(n)]<2E(n)$ (D) $E[(n+1)E(n)]-E[(n)E(n)]>2E(n)$",
+    "options": {
+      "A": "$E[(n+1)E(n)]-E[(n)E(n)]>2E(n)$",
+      "B": "$E[(n+1)E(n)]-E[(n)E(n)]>2E(n)$ (Same as A)",
+      "C": "$E[(n+1)E(n)]-E[(n)E(n)]<2E(n)$",
+      "D": "$E[(n+1)E(n)]-E[(n)E(n)]>2E(n)$ (Same as A)"
+    },
+    "selected_answer": "A",
+    "page_number": 3
+  },
+  {
+    "question_number": 9,
+    "question_text": "The largest wavelength in the ultraviolet region of the hydrogen spectrum is $122 mathrm{~nm}$. The smallest wavelength in the infrared region of the hydrogen spectrum (to the nearest integer) is (A) $602 mathrm{~nm}$ (B) $823 mathrm{~nm}$ (C) $1682 mathrm{~nm}$ (D) $1648 mathrm{~nm}$",
+    "options": {
+      "A": "$602 mathrm{~nm}$",
+      "B": "$823 mathrm{~nm}$",
+      "C": "$1682 mathrm{~nm}$",
+      "D": "$1648 mathrm{~nm}$"
+    },
+    "selected_answer": "D",
+    "page_number": 3
+  },
+  {
+    "question_number": 10,
+    "question_text": "A block of mass m starts moving on a rough horizontal surface with a velocity v. It stops due to friction between the block and the surface after moving through a certain distance. The surface is now tilted to an angle of 30° with the horizontal and the same block made to go up on the surface with the same initial velocity v. The decrease in the mechanical energy in the second situation is smaller than that in the first situation. because",
+    "options": {
+      "A": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1",
+      "B": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1",
+      "C": "Statement-1 is True, Statement-2 is False",
+      "D": "Statement-1 is False, Statement-2 is True"
+    },
+    "selected_answer": "B",
+    "page_number": 4
+  },
+  {
+    "question_number": 11,
+    "question_text": "In an elastic collision between two bodies, the relative speed of the bodies after collision is equal to the relative speed before the collision. because",
+    "options": {
+      "A": "In an elastic collision, the linear momentum of the system is conserved.",
+      "B": "In an elastic collision, the kinetic energy of the system is conserved.",
+      "C": "In an elastic collision, the linear momentum of the system is conserved. (Same as A)",
+      "D": "In an elastic collision, the kinetic energy of the system is conserved. (Same as B)"
+    },
+    "selected_answer": "B",
+    "page_number": 4
+  },
+  {
+    "question_number": 12,
+    "question_text": "The formula connecting $n$, $v$ and $f$ for a spherical mirror is valid only for mirrors whose sizes are very small compared to their radii of curvature.",
+    "options": {
+      "A": "Laws of reflection are strictly valid for plane surfaces, but not for large spherical surfaces.",
+      "B": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1",
+      "C": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1",
+      "D": "Statement-1 is True, Statement-2 is False"
+    },
+    "selected_answer": "B",
+    "page_number": 5
+  },
+  {
+    "question_number": 13,
+    "question_text": "If the accelerating potential in an X-ray tube is increased, the wavelengths of the characteristic X-rays do not change.",
+    "options": {
+      "A": "When an electron beam strikes the target in an X-ray tube, part of the kinetic energy is converted into X-ray energy.",
+      "B": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1",
+      "C": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1",
+      "D": "Statement-1 is False, Statement-2 is True"
+    },
+    "selected_answer": "B",
+    "page_number": 5
+  },
+  {
+    "question_number": 14,
+    "question_text": "The ratio $x_1 / x_2$ is",
+    "options": {
+      "A": "2",
+      "B": "\\frac{1}{2}",
+      "C": "\\sqrt{2}",
+      "D": "\\frac{1}{\\sqrt{2}}"
+    },
+    "selected_answer": "B",
+    "page_number": 6
+  },
+  {
+    "question_number": 15,
+    "question_text": "When disc B is brought in contact with disc A, they acquire a common angular velocity in time t. The average frictional torque on one disc by the other during this period is",
+    "options": {
+      "A": "\\frac{2 I \\omega}{3 t}",
+      "B": "\\frac{9 I \\omega}{2 t}",
+      "C": "\\frac{9 I \\omega}{4 t}",
+      "D": "\\frac{3 I \\omega}{2 t}"
+    },
+    "selected_answer": "B",
+    "page_number": 6
+  },
+  {
+    "question_number": 16,
+    "question_text": "The loss of kinetic energy during the above process is",
+    "options": {
+      "A": "\\frac{I \\omega^2}{2}",
+      "B": "\\frac{I \\omega^2}{3}",
+      "C": "\\frac{I \\omega^2}{4}",
+      "D": "\\frac{I \\omega^2}{6}"
+    },
+    "selected_answer": "B",
+    "page_number": 6
+  },
+  {
+    "question_number": 17,
+    "question_text": "The piston is now pulled out slowly and held at a distance 2L from the top. The pressure in the cylinder between its top and the piston will then be",
+    "options": {
+      "A": "P_B",
+      "B": "\\frac{P_B}{2}",
+      "C": "\\frac{P_B + M g}{2}",
+      "D": "\\frac{P_B}{2} + \\frac{M g}{2}"
+    },
+    "selected_answer": "C",
+    "page_number": 6
+  },
+  {
+    "question_number": 18,
+    "question_text": "While the piston is at a distance $2L$ from the top, the hole at the top is sealed. The piston is then released. It can stay in equilibrium. In this condition, the distance of the piston from the top is",
+    "options": {
+      "A": "$2P_{0} g L^{2}$",
+      "B": "$P_{0} g R^{2} - Mg$",
+      "C": "$g L$",
+      "D": "$g L$ (Same as C)"
+    },
+    "selected_answer": "D",
+    "page_number": 7
+  },
+  {
+    "question_number": 19,
+    "question_text": "The piston is taken completely out of the cylinder. The hole at the top is sealed. A water tank is brought below the cylinder and put in a position so that the water surface in the tank is the same level as the top of the cylinder as shown in the figure. The density of the water is $\rho$. In equilibrium, the height $H$ of the water column in the cylinder satisfies",
+    "options": {
+      "A": "$\rho g L_{a} - H^{2} = \rho_{0} (L_{a} - H) + \rho_{0} L_{P}$",
+      "B": "$\rho g L_{a} - H^{2} = \rho_{0} (L_{a} - H) - \rho_{0} L_{P}$",
+      "C": "$\rho g L_{a} - H^{2} = \rho_{0} (L_{a} - H) - \rho_{0} L_{P}$ (Same as B)",
+      "D": "$\rho g L_{a} - H^{2} = \rho_{0} (L_{a} - H) + \rho_{0} L_{P}$ (Same as A)"
+    },
+    "selected_answer": "D",
+    "page_number": 7
+  },
+  {
+    "question_number": 20,
+    "question_text": "Some physical quantities are given in Column I and some possible SI units, in which these quantities may be expressed are given in Column II. Match the physical quantities in Column I with the units in Column II and indicate your answer by darkening appropriate bubbles in the 4 × 4 matrix given in the ORS.",
+    "options": {
+      "A": "GM_M_r",
+      "B": "3RT",
+      "C": "q^2B^2",
+      "D": "GM_r"
+    },
+    "selected_answer": "P",
+    "page_number": 8
+  },
+  {
+    "question_number": 21,
+    "question_text": "Coloumn I gives certain situations in which a straight metallic wire of resistance R and Column II gives some resulting effects. Match the statements in Column I with the statements in Column II and indicate your answer by darkening appropriate bubbles in the 4 × 4 matrix given in the ORB.",
+    "options": {
+      "A": "A charged capacitor is connected to the ends of the wire",
+      "B": "The wire is moved perpendicular to its length with a constant velocity in a uniform magnetic field perpendicular to the plane of motion",
+      "C": "The wire is placed in a constant electric field that has a direction along the length of the wire",
+      "D": "A battery of constant emf is connected to the ends of the wire"
+    },
+    "selected_answer": "A",
+    "page_number": 9
+  },
+  {
+    "question_number": 21,
+    "question_text": "Coloumn I gives certain situations in which a straight metallic wire of resistance R and Column II gives some resulting effects. Match the statements in Column I with the statements in Column II and indicate your answer by darkening appropriate bubbles in the 4 × 4 matrix given in the ORB.",
+    "options": {
+      "A": "A charged capacitor is connected to the ends of the wire",
+      "B": "The wire is moved perpendicular to its length with a constant velocity in a uniform magnetic field perpendicular to the plane of motion",
+      "C": "The wire is placed in a constant electric field that has a direction along the length of the wire",
+      "D": "A battery of constant emf is connected to the ends of the wire"
+    },
+    "selected_answer": "B",
+    "page_number": 9
+  },
+  {
+    "question_number": 21,
+    "question_text": "Coloumn I gives certain situations in which a straight metallic wire of resistance R and Column II gives some resulting effects. Match the statements in Column I with the statements in Column II and indicate your answer by darkening appropriate bubbles in the 4 × 4 matrix given in the ORB.",
+    "options": {
+      "A": "A charged capacitor is connected to the ends of the wire",
+      "B": "The wire is moved perpendicular to its length with a constant velocity in a uniform magnetic field perpendicular to the plane of motion",
+      "C": "The wire is placed in a constant electric field that has a direction along the length of the wire",
+      "D": "A battery of constant emf is connected to the ends of the wire"
+    },
+    "selected_answer": "C",
+    "page_number": 9
+  },
+  {
+    "question_number": 21,
+    "question_text": "Coloumn I gives certain situations in which a straight metallic wire of resistance R and Column II gives some resulting effects. Match the statements in Column I with the statements in Column II and indicate your answer by darkening appropriate bubbles in the 4 × 4 matrix given in the ORB.",
+    "options": {
+      "A": "A charged capacitor is connected to the ends of the wire",
+      "B": "The wire is moved perpendicular to its length with a constant velocity in a uniform magnetic field perpendicular to the plane of motion",
+      "C": "The wire is placed in a constant electric field that has a direction along the length of the wire",
+      "D": "A battery of constant emf is connected to the ends of the wire"
+    },
+    "selected_answer": "D",
+    "page_number": 9
+  },
+  {
+    "question_number": 22,
+    "question_text": "Some laws / processes are given in Column I. Match these with the physical phenomena given in Column II and indicate your answer by darkening appropriate bubbles in the 4 × 4 matrix given in the OES.",
+    "options": {},
+    "selected_answer": null,
+    "page_number": 10
+  },
+  {
+    "question_number": 22,
+    "question_text": "Column I",
+    "options": {},
+    "selected_answer": null,
+    "page_number": 10
+  },
+  {
+    "question_number": 22,
+    "question_text": "Column II",
+    "options": {},
+    "selected_answer": null,
+    "page_number": 10
+  },
+  {
+    "question_number": 23,
+    "question_text": "The species having bond order different from that in CO is",
+    "options": {
+      "A": "NO",
+      "B": "NO (Same as A)",
+      "C": "CN",
+      "D": "N"
+    },
+    "selected_answer": "D",
+    "page_number": 10
+  },
+  {
+    "question_number": 24,
+    "question_text": "Among the following, the paramagnetic compound is",
+    "options": {
+      "A": "Na",
+      "B": "O",
+      "C": "N",
+      "D": "KO"
+    },
+    "selected_answer": "D",
+    "page_number": 10
+  },
+  {
+    "question_number": 25,
+    "question_text": "Extraction of zinc from zinc blende is achieved by (A) electrolytic reduction (B) roasting followed by reduction with carbon (C) roasting followed by reduction with another metal (D) roasting followed by self-reduction",
+    "options": {
+      "A": "electrolytic reduction",
+      "B": "roasting followed by reduction with carbon",
+      "C": "roasting followed by reduction with another metal",
+      "D": "roasting followed by self-reduction"
+    },
+    "selected_answer": "A",
+    "page_number": 11
+  },
+  {
+    "question_number": 26,
+    "question_text": "In the following reaction, the structure of the major product 'X' is",
+    "options": {
+      "A": "(A)",
+      "B": "(B)",
+      "C": "(C)",
+      "D": "(D)"
+    },
+    "selected_answer": "B",
+    "page_number": 11
+  },
+  {
+    "question_number": 27,
+    "question_text": "The reagent(s) for the following conversion,",
+    "options": {
+      "A": "alcoholic KOH",
+      "B": "alcoholic KOH followed by NaNH2",
+      "C": "aqueous KOH followed by NaNH2",
+      "D": "Zn/CH3OH"
+    },
+    "selected_answer": "A",
+    "page_number": 12
+  },
+  {
+    "question_number": 28,
+    "question_text": "The number of structural isomers for C6H14 is",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "selected_answer": "A",
+    "page_number": 12
+  },
+  {
+    "question_number": 29,
+    "question_text": "The percentage of p-character in the orbitals forming P–P bonds in P2 is",
+    "options": {
+      "A": "25",
+      "B": "33",
+      "C": "50",
+      "D": "75"
+    },
+    "selected_answer": "C",
+    "page_number": 13
+  },
+  {
+    "question_number": 30,
+    "question_text": "When 20 g of naphthoic acid (C10H8O2) is dissolved in 50 g of benzene (Kr = 1.72 K kg mol-1), a freezing point depression of 2 K is observed. The van't Hoff factor (i) is",
+    "options": {
+      "A": "0.5",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "selected_answer": "A",
+    "page_number": 13
+  },
+  {
+    "question_number": 31,
+    "question_text": "The value of log10K for a reaction A ⇌ B is",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "95",
+      "D": "100"
+    },
+    "selected_answer": "C",
+    "page_number": 13
+  },
+  {
+    "question_number": 32,
+    "question_text": "STATEMENT-1 : Boren always forms covalent bond. because STATEMENT-2 : The small size of B3+ favours formation of covalent bond.",
+    "options": {
+      "A": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1",
+      "B": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1",
+      "C": "Statement-1 is True, Statement-2 is False",
+      "D": "Statement-1 is False, Statement-2 is True"
+    },
+    "selected_answer": "B",
+    "page_number": 14
+  },
+  {
+    "question_number": 33,
+    "question_text": "STATEMENT-1 : In water, orthoboric acid behaves as a weak monobasic acid. because STATEMENT-2 : In water, orthoboric acid acts as a proton donor.",
+    "options": {
+      "A": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1",
+      "B": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1",
+      "C": "Statement-1 is True, Statement-2 is False",
+      "D": "Statement-1 is False, Statement-2 is True"
+    },
+    "selected_answer": "B",
+    "page_number": 14
+  },
+  {
+    "question_number": 34,
+    "question_text": "STATEMENT-1 : $p$-Hydroxybenzoic acid has a lower boiling point than $o$-hydroxybenzoic acid. STATEMENT-2 : $o$-Hydroxybenzoic acid has intramolecular hydrogen bonding.",
+    "options": {
+      "A": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1",
+      "B": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1",
+      "C": "Statement-1 is True, Statement-2 is False",
+      "D": "Statement-1 is False, Statement-2 is True"
+    },
+    "selected_answer": "B",
+    "page_number": 15
+  },
+  {
+    "question_number": 35,
+    "question_text": "STATEMENT-1 : Micelles are formed by surfactant molecules above the critical micellar concentration (CMC). STATEMENT-2 : The conductivity of a solution having surfactant molecules decreases sharply at the CMC.",
+    "options": {
+      "A": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1",
+      "B": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1",
+      "C": "Statement-1 is True, Statement-2 is False",
+      "D": "Statement-1 is False, Statement-2 is True"
+    },
+    "selected_answer": "B",
+    "page_number": 15
+  },
+  {
+    "question_number": 36,
+    "question_text": "Argon is used in arc welding because of its",
+    "options": {
+      "A": "low reactivity with metal",
+      "B": "ability to lower the melting point of metal",
+      "C": "flammability",
+      "D": "high calorific value"
+    },
+    "selected_answer": "A",
+    "page_number": 16
+  },
+  {
+    "question_number": 37,
+    "question_text": "The structure of XeO_3 is",
+    "options": {
+      "A": "linear",
+      "B": "planar",
+      "C": "pyramidal",
+      "D": "T-shaped"
+    },
+    "selected_answer": "D",
+    "page_number": 16
+  },
+  {
+    "question_number": 38,
+    "question_text": "XeF_4 and XeF_6 are expected to be",
+    "options": {
+      "A": "oxidizing",
+      "B": "reducing",
+      "C": "unreactive",
+      "D": "strongly basic"
+    },
+    "selected_answer": "B",
+    "page_number": 16
+  },
+  {
+    "question_number": 39,
+    "question_text": "The total number of moles of chlorine gas evolved is",
+    "options": {
+      "A": "0.5",
+      "B": "1.0",
+      "C": "2.0",
+      "D": "3.0"
+    },
+    "selected_answer": "B",
+    "page_number": 17
+  },
+  {
+    "question_number": 40,
+    "question_text": "If the cathode is a Hg electrode, the maximum weight (g) of amalgam formed from this solution is",
+    "options": {
+      "A": "200",
+      "B": "225",
+      "C": "400",
+      "D": "446"
+    },
+    "selected_answer": "D",
+    "page_number": 18
+  },
+  {
+    "question_number": 41,
+    "question_text": "The total charge (coulombs) required for complete electrolysis is",
+    "options": {
+      "A": "24125",
+      "B": "48250",
+      "C": "96500",
+      "D": "193000"
+    },
+    "selected_answer": "C",
+    "page_number": 19
+  },
+  {
+    "question_number": 42,
+    "question_text": "Match the complexes in Column I with their properties listed in Column II. Indicate your answer by darkening the appropriate bubbles of the 4 × 4 matrix given in the ORS",
+    "options": {
+      "A": "geometrical isomers",
+      "B": "paramagnetic",
+      "C": "diamagnetic",
+      "D": "metal ion with +2 oxidation state"
+    },
+    "selected_answer": "A",
+    "page_number": 20
+  },
+  {
+    "question_number": 43,
+    "question_text": "Match the chemical substances in Column I with type of polymer/type of bonds in Column II. Indicate your answer by darkening the appropriate bubbles of the 4 × 4 matrix given in the ORS.",
+    "options": {
+      "A": "cellulose",
+      "B": "nylon-6, 6",
+      "C": "protein",
+      "D": "sucrose"
+    },
+    "selected_answer": "A",
+    "page_number": 21
+  },
+  {
+    "question_number": 44,
+    "question_text": "Match gases under specified conditions listed in Column I with their properties/laws in Column II. Indicate your answer by darkening the appropriate bubbles of the 4 × 4 matrix given in the ORS.",
+    "options": {
+      "A": "hydrogen gas (P = 200 atm, T = 273 K)",
+      "B": "hydrogen gas (P = 6, T = 273 K)",
+      "C": "CO2 (P = 1 atm, T = 273 K)",
+      "D": "real gas with very large molar volume"
+    },
+    "selected_answer": "A",
+    "page_number": 21
+  },
+  {
+    "question_number": 45,
+    "question_text": "Let $alpha, \beta$ be the roots of the equation $x^2 - px + r = 0$ and $\frac{alpha}{2}, 2 \beta$ be the roots of the equation $x^2 - qx + r = 0$. Then the value of $r$ is",
+    "options": {
+      "A": "$\frac{2}{9}(p-q)(2q-p)$",
+      "B": "$\frac{2}{9}(q-p)(2p-q)$",
+      "C": "$\frac{2}{9}(q-2p)(2q-p)$",
+      "D": "$\frac{2}{9}(p-2q)(2q-p)$"
+    },
+    "selected_answer": "D",
+    "page_number": 22
+  },
+  {
+    "question_number": 46,
+    "question_text": "Let $f(x)$ be differentiable on the interval $(0, infty)$ such that $f(1) = 1$, and $lim_{x \to infty} \frac{x^2 f(x) - x^2}{f(x)} = 1$",
+    "options": {
+      "A": "$\frac{1}{3x + 2}$",
+      "B": "$\frac{2x + 1}{3x - 1}$",
+      "C": "$\frac{-1}{x + 3}$",
+      "D": "$\frac{1}{x}$"
+    },
+    "selected_answer": "D",
+    "page_number": 22
+  },
+  {
+    "question_number": 47,
+    "question_text": "One Indian and four American men and their wives are to be seated randomly around a circular table. Then the conditional probability that the Indian man is seated adjacent to his wife given that each American man is seated adjacent to his wife is",
+    "options": {
+      "A": "$\frac{1}{2}$",
+      "B": "$\frac{1}{3}$",
+      "C": "$\frac{2}{5}$",
+      "D": "$\frac{1}{5}$"
+    },
+    "selected_answer": "D",
+    "page_number": 22
+  },
+  {
+    "question_number": 48,
+    "question_text": "The tangent to the curve $y = e^x$ drawn at the point $(e, e^e)$ intersects the line joining the points $(e^{-1}, e^{e^{-1}})$ and $(e+1, e^{e+1})$",
+    "options": {
+      "A": "on the left of $x = e$ at no point",
+      "B": "on the right of $x = e$ at all points",
+      "C": "at no point",
+      "D": "at all points"
+    },
+    "selected_answer": "B",
+    "page_number": 22
+  },
+  {
+    "question_number": 49,
+    "question_text": "lim_{x\to -infty} \frac{sec^2 x + \tan^2 x}{\frac{x^2}{x^2 - 2}}",
+    "options": {
+      "A": "\frac{8}{pi}",
+      "B": "\frac{2}{pi}",
+      "C": "\frac{2}{pi}sqrt{\frac{1}{2}}",
+      "D": "4sqrt{2}"
+    },
+    "selected_answer": "A",
+    "page_number": 23
+  },
+  {
+    "question_number": 50,
+    "question_text": "A hyperbola, having the transverse axis of length 2sin \theta, is confocal with the ellipse 3x^2 + 4y^2 = 12. Then its equation is",
+    "options": {
+      "A": "x^2 cosec^2 \theta - y^2 sec^2 \theta = 1",
+      "B": "x^2 sec^2 \theta - y^2 cosec^2 \theta = 1",
+      "C": "x^2 sin^2 \theta - y^2 cos^2 \theta = 1",
+      "D": "x^2 cos^2 \theta - y^2 sin^2 \theta = 1"
+    },
+    "selected_answer": "A",
+    "page_number": 23
+  },
+  {
+    "question_number": 51,
+    "question_text": "The number of distinct real values of lambda, for which the vectors -hat{i} + lambda hat{j} + hat{k}, hat{i} - hat{j} + hat{k} and hat{i} + hat{j} - hat{k} are coplanar, is",
+    "options": {
+      "A": "zero",
+      "B": "one",
+      "C": "two",
+      "D": "three"
+    },
+    "selected_answer": "C",
+    "page_number": 23
+  },
+  {
+    "question_number": 52,
+    "question_text": "A man walks a distance of 3 units from the origin towards the north-east (N 45^E) direction. From there, he walks a distance of 4 units towards the north-west (N 45^W) direction to reach a point P. Then the position of P in the Argand plane is",
+    "options": {
+      "A": "3e^{ipi / 4} + 4i",
+      "B": "{ - 4}e^{ipi / 4}",
+      "C": "(4 + 3i)e^{ipi / 4}",
+      "D": "{3 + 4i}e^{ipi / 4}"
+    },
+    "selected_answer": "C",
+    "page_number": 24
+  },
+  {
+    "question_number": 53,
+    "question_text": "The number of solutions of the pair of equations 2sin^2 \theta - cos2 \theta = 0 2cos^2 \theta - 3sin \theta = 0 in the interval [0, 2pi] is",
+    "options": {
+      "A": "zero",
+      "B": "one",
+      "C": "two",
+      "D": "four"
+    },
+    "selected_answer": "B",
+    "page_number": 24
+  },
+  {
+    "question_number": 54,
+    "question_text": "Let H_1, H_2, cdots, H_n be mutually exclusive and exhaustive events with P(H_i) > 0, i = 1, 2, cdots, n. Let E be any other event with 0 < P(E) < 1. STATEMENT-1: P(H_i | E) = P(E | H_i) cdot P(H_i) for i = 1, 2, cdots, n. because STATEMENT-2: sum_{i=1}^n P(H_i) = 1. STATEMENT-1 is True, STATEMENT-2 is True; STATEMENT-2 is a correct explanation for STATEMENT-1. STATEMENT-1 is True, STATEMENT-2 is True; STATEMENT-2 is NOT a correct explanation for STATEMENT-1. STATEMENT-1 is True, STATEMENT-2 is False. STATEMENT-1 is False, STATEMENT-2 is True. STATEMENT-1 is False, STATEMENT-2 is False.",
+    "options": {
+      "A": "STATEMENT-1 is True, STATEMENT-2 is True; STATEMENT-2 is a correct explanation for STATEMENT-1.",
+      "B": "STATEMENT-1 is True, STATEMENT-2 is True; STATEMENT-2 is NOT a correct explanation for STATEMENT-1.",
+      "C": "STATEMENT-1 is True, STATEMENT-2 is False.",
+      "D": "STATEMENT-1 is False, STATEMENT-2 is True."
+    },
+    "selected_answer": "A",
+    "page_number": 24
+  },
+  {
+    "question_number": 55,
+    "question_text": "Tangents are drawn from the point $(7, 7)$ to the circle $x^2 + y^2 = 169$.",
+    "options": {
+      "A": "The tangents are mutually perpendicular.",
+      "B": "The tangents are mutually perpendicular because",
+      "C": "The locus of the points from which mutually perpendicular tangents can be drawn to the given circle is $x^2 + y^2 = 338$.",
+      "D": "The locus of the points from which mutually perpendicular tangents can be drawn to the given circle is $x^2 + y^2 = 338$. (Same as C)"
+    },
+    "selected_answer": "A",
+    "page_number": 25
+  },
+  {
+    "question_number": 55,
+    "question_text": "Let the vectors $overrightarrow{PQ}, overrightarrow{QR}, overrightarrow{RS}, overrightarrow{ST}, overrightarrow{TU}$ and $overrightarrow{UP}$ represent the sides of a regular hexagon.",
+    "options": {
+      "A": "$overrightarrow{PQ} + overrightarrow{RS} = 0$ and $overrightarrow{PQ} \times overrightarrow{ST} \ne 0$.",
+      "B": "$overrightarrow{PQ} \times overrightarrow{RS} = 0$ and $overrightarrow{PQ} \times overrightarrow{ST} \ne 0$.",
+      "C": "$overrightarrow{PQ} \times overrightarrow{RS} = 0$ and $overrightarrow{PQ} \times overrightarrow{ST} = 0$.",
+      "D": "$overrightarrow{PQ} \times overrightarrow{RS} \ne 0$ and $overrightarrow{PQ} \times overrightarrow{ST} \ne 0$."
+    },
+    "selected_answer": "B",
+    "page_number": 25
+  },
+  {
+    "question_number": 57,
+    "question_text": "Let $F(x)$ be an indefinite integral of $sin^2 x$. STATEMENT-1 : The function $F(x)$ satisfies $F(x + pi) = F(x)$ for all real $x$. because STATEMENT-2 : $sin^2 (x + pi) = sin^2 x$ for all real $x$. (A) Statement-1 is True, Statement-2 is True; Statement-2 is True; Statement-2 is a correct explanation for Statement-1 (B) Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1 (C) Statement-1 is True, Statement-2 is False (D) Statement-1 is False, Statement-2 is True",
+    "options": {
+      "A": "Statement-1 is True, Statement-2 is True; Statement-2 is True; Statement-2 is a correct explanation for Statement-1",
+      "B": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1",
+      "C": "Statement-1 is True, Statement-2 is False",
+      "D": "Statement-1 is False, Statement-2 is True"
+    },
+    "selected_answer": "D",
+    "page_number": 26
+  },
+  {
+    "question_number": 58,
+    "question_text": "Let $V$, denote the sum of the first $r$ terms of an arithmetic progression (A.P.) whose first term is $a$ and the common difference is $(2r - 1)$. Let $T_r = V_{r+1} - V_r - 2$ and $Q_r = T_{r+1} - T_r$ for $r = 1, 2, ldots$ The sum $V_1 + V_2 + ldots + V_n$ is (A) $\frac{1}{12} n(n + 1)(3n^2 - n + 1)$ (B) $\frac{1}{12} n(n + 1)(3n^2 + n + 2)$ (C) $\frac{1}{2} n(2n^3 - n + 1)$ (D) $\frac{1}{3} (2n^3 - 2n + 3)",
+    "options": {
+      "A": "$\frac{1}{12} n(n + 1)(3n^2 - n + 1)$",
+      "B": "$\frac{1}{12} n(n + 1)(3n^2 + n + 2)$",
+      "C": "$\frac{1}{2} n(2n^3 - n + 1)$",
+      "D": "$\frac{1}{3} (2n^3 - 2n + 3)$"
+    },
+    "selected_answer": "B",
+    "page_number": 26
+  },
+  {
+    "question_number": 59,
+    "question_text": "T, is always (A) an odd number (B) an even number (C) a prime number (D) a composite number",
+    "options": {
+      "A": "an odd number",
+      "B": "an even number",
+      "C": "a prime number",
+      "D": "a composite number"
+    },
+    "selected_answer": "D",
+    "page_number": 27
+  },
+  {
+    "question_number": 60,
+    "question_text": "Which one of the following is a correct statement? (A) Q_1, Q_2, Q_3,... are in A.P. with common difference 5 (B) Q_1, Q_2, Q_3,... are in A.P. with common difference 6 (C) Q_1, Q_2, Q_3,... are in A.P. with common difference 11 (D) Q_1 = Q_2 = Q_3 = ...",
+    "options": {
+      "A": "Q_1, Q_2, Q_3,... are in A.P. with common difference 5",
+      "B": "Q_1, Q_2, Q_3,... are in A.P. with common difference 6",
+      "C": "Q_1, Q_2, Q_3,... are in A.P. with common difference 11",
+      "D": "Q_1 = Q_2 = Q_3 = ..."
+    },
+    "selected_answer": "D",
+    "page_number": 27
+  },
+  {
+    "question_number": 61,
+    "question_text": "The ratio of the areas of the triangles PQS and PQR is (A) 1:\\sqrt{2} (B) 1:2 (C) 1:4 (D) 1:8",
+    "options": {
+      "A": "1:\\sqrt{2}",
+      "B": "1:2",
+      "C": "1:4",
+      "D": "1:8"
+    },
+    "selected_answer": "D",
+    "page_number": 27
+  },
+  {
+    "question_number": 62,
+    "question_text": "The radius of the circumcircle of the triangle PRS is (A) 5 (B) 3\\sqrt{3} (C) 3\\sqrt{2} (D) 2\\sqrt{2}",
+    "options": {
+      "A": "5",
+      "B": "3\\sqrt{3}",
+      "C": "3\\sqrt{2}",
+      "D": "2\\sqrt{2}"
+    },
+    "selected_answer": "D",
+    "page_number": 27
+  },
+  {
+    "question_number": 2,
+    "question_text": "* **Selected Answer:** (C) 8/3\n\n**Question",
+    "options": {},
+    "selected_answer": null,
+    "page_number": 28
+  },
+  {
+    "question_number": 0,
+    "question_text": "* **Selected Answer:** (A) ax + by + cz = 0\n\n**Question",
+    "options": {},
+    "selected_answer": null,
+    "page_number": 28
+  },
+  {
+    "question_number": 4,
+    "question_text": "× 5 matrix given in the ORS.\n* **Options:** (A) a + b + c = 0 and a^2 + b^2 + c^2 = ab + bc + ca, (B) a + b + c = 0 and a^2 + b^2 + c^2 = ab + bc + ca, (C) a + b + c = 0 and a^2 + b^2 + c^2 = ab + bc + ca, (D) a + b + c = 0 and a^2 + b^2 + c^2 = ab + bc + ca\n* **Selected Answer:** (A) a + b + c = 0 and a^2 + b^2 + c^2 = ab + bc + ca\n\nNote that the selected answers are based on the visible information in the image and may not be accurate or complete.",
+    "options": {},
+    "selected_answer": null,
+    "page_number": 28
+  },
+  {
+    "question_number": 65,
+    "question_text": "In the following $|x|$ denotes the greatest integer less than or equal to $x$. Match the functions in Column I with the properties in Column II and indicate your answer by darkening the appropriate bubbles in the $4\times4$ matrix given in the ORS.",
+    "options": {
+      "A": "x|x|",
+      "B": "sqrt{|x|}",
+      "C": "x=[x]",
+      "D": "|x-1|+|x+1|"
+    },
+    "selected_answer": "D",
+    "page_number": 29
+  },
+  {
+    "question_number": 66,
+    "question_text": "Match the integrals in Column I with the values in Column II and indicate your answer by darkening the appropriate bubbles in the 4 × 4 matrix given in the ORS.",
+    "options": {},
+    "selected_answer": null,
+    "page_number": 30
+  }
+]

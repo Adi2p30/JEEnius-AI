@@ -1,0 +1,71 @@
+2025-03-30 03:12:26,134 - INFO - Connecting to Chrome on port 9222...
+2025-03-30 03:13:29,137 - ERROR - Error connecting to Chrome: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable
+Stacktrace:
+0   chromedriver                        0x00000001010236c8 cxxbridge1$str$ptr + 2791212
+1   chromedriver                        0x000000010101bc9c cxxbridge1$str$ptr + 2759936
+2   chromedriver                        0x0000000100b6dca4 cxxbridge1$string$len + 92532
+3   chromedriver                        0x0000000100b5b8b0 cxxbridge1$string$len + 17792
+4   chromedriver                        0x0000000100ba530c cxxbridge1$string$len + 319452
+5   chromedriver                        0x0000000100b9ce20 cxxbridge1$string$len + 285424
+6   chromedriver                        0x0000000100be27f0 cxxbridge1$string$len + 570560
+7   chromedriver                        0x0000000100be2064 cxxbridge1$string$len + 568628
+8   chromedriver                        0x0000000100ba92fc cxxbridge1$string$len + 335820
+9   chromedriver                        0x0000000100fe86c4 cxxbridge1$str$ptr + 2549544
+10  chromedriver                        0x0000000100feb988 cxxbridge1$str$ptr + 2562540
+11  chromedriver                        0x0000000100fc871c cxxbridge1$str$ptr + 2418560
+12  chromedriver                        0x0000000100fec1e8 cxxbridge1$str$ptr + 2564684
+13  chromedriver                        0x0000000100fb9750 cxxbridge1$str$ptr + 2357172
+14  chromedriver                        0x000000010100bf58 cxxbridge1$str$ptr + 2695100
+15  chromedriver                        0x000000010100c0e0 cxxbridge1$str$ptr + 2695492
+16  chromedriver                        0x000000010101b910 cxxbridge1$str$ptr + 2759028
+17  libsystem_pthread.dylib             0x00000001873372e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001873320fc thread_start + 8
+
+2025-03-30 03:13:29,139 - INFO - Connection failed
+2025-03-30 03:16:10,128 - INFO - Setting up Chrome browser...
+2025-03-30 03:16:10,137 - INFO - Initializing Chrome driver...
+2025-03-30 03:16:10,138 - INFO - ====== WebDriver manager ======
+2025-03-30 03:16:10,395 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 03:16:10,474 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 03:16:10,526 - INFO - Driver [/Users/aditya_pachpande/.wdm/drivers/chromedriver/mac64/134.0.6998.165/chromedriver-mac-arm64/chromedriver] found in cache
+2025-03-30 03:16:11,329 - INFO - Logging in to GetMarks...
+2025-03-30 03:16:22,343 - ERROR - Login failed: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100f676c8 cxxbridge1$str$ptr + 2791212
+1   chromedriver                        0x0000000100f5fc9c cxxbridge1$str$ptr + 2759936
+2   chromedriver                        0x0000000100ab1e30 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000100af9170 cxxbridge1$string$len + 384576
+4   chromedriver                        0x0000000100b3a5f8 cxxbridge1$string$len + 651976
+5   chromedriver                        0x0000000100aed2fc cxxbridge1$string$len + 335820
+6   chromedriver                        0x0000000100f2c6c4 cxxbridge1$str$ptr + 2549544
+7   chromedriver                        0x0000000100f2f988 cxxbridge1$str$ptr + 2562540
+8   chromedriver                        0x0000000100f0c71c cxxbridge1$str$ptr + 2418560
+9   chromedriver                        0x0000000100f301e8 cxxbridge1$str$ptr + 2564684
+10  chromedriver                        0x0000000100efd750 cxxbridge1$str$ptr + 2357172
+11  chromedriver                        0x0000000100f4ff58 cxxbridge1$str$ptr + 2695100
+12  chromedriver                        0x0000000100f500e0 cxxbridge1$str$ptr + 2695492
+13  chromedriver                        0x0000000100f5f910 cxxbridge1$str$ptr + 2759028
+14  libsystem_pthread.dylib             0x00000001873372e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001873320fc thread_start + 8
+
+2025-03-30 03:16:22,344 - ERROR - Error during scraping: Failed to log in to GetMarks: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100f676c8 cxxbridge1$str$ptr + 2791212
+1   chromedriver                        0x0000000100f5fc9c cxxbridge1$str$ptr + 2759936
+2   chromedriver                        0x0000000100ab1e30 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000100af9170 cxxbridge1$string$len + 384576
+4   chromedriver                        0x0000000100b3a5f8 cxxbridge1$string$len + 651976
+5   chromedriver                        0x0000000100aed2fc cxxbridge1$string$len + 335820
+6   chromedriver                        0x0000000100f2c6c4 cxxbridge1$str$ptr + 2549544
+7   chromedriver                        0x0000000100f2f988 cxxbridge1$str$ptr + 2562540
+8   chromedriver                        0x0000000100f0c71c cxxbridge1$str$ptr + 2418560
+9   chromedriver                        0x0000000100f301e8 cxxbridge1$str$ptr + 2564684
+10  chromedriver                        0x0000000100efd750 cxxbridge1$str$ptr + 2357172
+11  chromedriver                        0x0000000100f4ff58 cxxbridge1$str$ptr + 2695100
+12  chromedriver                        0x0000000100f500e0 cxxbridge1$str$ptr + 2695492
+13  chromedriver                        0x0000000100f5f910 cxxbridge1$str$ptr + 2759028
+14  libsystem_pthread.dylib             0x00000001873372e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001873320fc thread_start + 8
+
+2025-03-30 03:16:22,344 - INFO - Error occurred
